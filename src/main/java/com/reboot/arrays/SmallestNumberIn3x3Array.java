@@ -1,5 +1,7 @@
 package com.reboot.arrays;
 
+//TODO Fix if there's 2 smallest number
+
 public class SmallestNumberIn3x3Array {
     public static void main(String[] args) {
         // Declaration
